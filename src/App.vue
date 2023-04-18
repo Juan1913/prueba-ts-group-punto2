@@ -60,7 +60,7 @@ export default {
   }
 },
     submitForm() {
-      // Aquí puedes enviar los datos del formulario a través de una petición AJAX
+      // Aquí se envian los datos del formulario a través de una petición AJAX
       console.log('Nombre:', this.name)
       console.log('Correo electrónico:', this.email)
       console.log('País seleccionado:', this.selectedCountry)
