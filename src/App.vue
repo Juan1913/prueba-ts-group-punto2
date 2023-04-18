@@ -73,7 +73,7 @@ export default {
   }
 }
 </script>
-
+  // Aquí se definen estilos
 <style>
 .form-container {
   background-color: white;
