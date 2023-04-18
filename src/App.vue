@@ -1,3 +1,4 @@
+  // Inicio de la plantilla básica del formulario
 <template>
   <div class="">
     <form @submit.prevent="submitForm">
